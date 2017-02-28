@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: prod, dev
+
+# the port where my program will be serving
+server:
+  port: 3194
+
+#management:
+#  security:
+#    enabled: false
+
