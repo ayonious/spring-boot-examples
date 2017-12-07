@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: prod
+
+# the port where my program will be serving
+# these are system variable better not change these
+server:
+  port: 3194

@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: prod2, dev2
+
+# the port where my program will be serving
+server:
+  port: 3194
+
+#management:
+#  security:
+#    enabled: false
+
+
+tryschedule:
+  cronString: "*/5 * * * * ?"
+
+
+tryschedule2:
+  cronString: "*/6 * * * * ?"
