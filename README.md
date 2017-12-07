@@ -10,5 +10,5 @@ TestProj07: Swagger, banner to show during project starting
 TestProj08: BDD, Cucumber tests 
 TestProj09: BDD, Cucumber tests, added wiremock support for testing external microservice
 TestProj10: Rest Client, Retry On Clients[work in progress]
-TestProj11: Rest Client Unit test, WireMock, BDD[work in progress]
+TestProj11: Rest Client Unit test, WireMock, BDD[work in progress]s
 ```
