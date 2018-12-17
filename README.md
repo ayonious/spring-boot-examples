@@ -1,4 +1,8 @@
 # Test practice projects for spring
+
+
+Each folder in this repository is a different project in Springboot. You will find separate readmes in each folder
+
 ```
 TestProj01: @RestController, @Value, @SpringBootApplication, @Autowired, @Bean
 TestProj02: @Configuration, @Scheduled, @Qualifier with @Bean
