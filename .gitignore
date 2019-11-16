@@ -7,3 +7,8 @@ bash
 
 #Avoid unnecessary mac index files
 .DS_Store
+
+**/.project
+**/.settings
+**/.classpath
+**/.factorypath
